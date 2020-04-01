@@ -6,5 +6,5 @@ func main() {
    fmt.Printf("1st commit")
    fmt.Printf("2nd commit")
    fmt.Printf("3rd commit")
-
+   fmt>printf("new branch")
 }
